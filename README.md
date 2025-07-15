@@ -11,7 +11,7 @@
 
 ✨ Finance professional with deep roots in banking and analytics  
 💡 Transitioning into tech to build AI-powered fintech tools  
-📚 Currently learning HTML, CSS, JavaScript, Python & Generative AI  
+📚 Currently perfecting HTML, CSS, JavaScript, Python & Generative AI  
 🚀 Dreaming of a future where I build powerful solutions that matter
 
 ---
